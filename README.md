@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hashir</h1>
+<h3 align="center">Aspiring Ethical Hacker | Tech Enthusiast</h3>
 
-<!--
-**hashir7-dev/hashir7-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 💻 I’m learning cybersecurity
+- 🚀 Interested in building cool projects
+- 🌱 Currently improving my skills
+- 📫 Reach me at: hashir.drip@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=hashir7-dev&show_icons=true&theme=radical)
