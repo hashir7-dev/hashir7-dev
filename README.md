@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hashir</h1>
-<h3 align="center">Aspiring Ethical Hacker | Tech Enthusiast</h3>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashir7-dev/hashir7-dev/main/gif.gif" />
+</p>
 ---
 
 ## 🧠 About Me
